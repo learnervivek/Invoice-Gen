@@ -1,5 +1,5 @@
 /**
- * Rule-Based Conversational Engine for Invoice Generation
+ * Rule-Based Conversational Engine for InvoiceAI
  *
  * Architecture:
  * 1. INTENT DETECTION — regex + keyword matching to classify user messages
